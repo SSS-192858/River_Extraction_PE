@@ -1,4 +1,3 @@
-subset*
 *.tif
 papers
 ./data/dim_files
@@ -6,3 +5,5 @@ papers
 *.prj
 *.shp
 *.shx
+*.cpg
+*.qmd
