@@ -7,4 +7,8 @@ papers
 *.shx
 *.cpg
 *.qmd
+dense_*.jpg
+residual_*.jpg
+UNet_dense_10_epoch.h5
+UNet_residual_10_epoch.h5
 *.h5
