@@ -8,3 +8,5 @@ papers
 *.cpg
 *.qmd
 *.h5
+dense_*.jpg
+residual_*.jpg
